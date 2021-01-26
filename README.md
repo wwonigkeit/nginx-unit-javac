@@ -9,7 +9,7 @@ No changes were needed for the [NGINX Unit platform!](https://unit.nginx.org/)
 The helloworld web appliction requires a `-colour` argument
 
 ```sh
-java helloworld -colour=#FFFFFF
+java helloworld -Dhelloworld.colour=#FFFFFF
 ```
 
 The argument colour: must be six characters of hexadecimal (like '#FFFFFF')
