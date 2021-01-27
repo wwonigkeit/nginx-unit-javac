@@ -1,6 +1,6 @@
 # Java (JSP) Hello World
 
-Hello World is a simple web application to use as an introduction to Vorteil running on NGINX Unit. It hosts a webpage containing a simple hello world message with Vorteil's logo. The background colour of the page can be controlled by setting the `-colour` argument to any valid HTML colour code.
+Hello World is a simple web application to use as an introduction to Vorteil running on NGINX Unit. It hosts a webpage containing a simple hello world message with Vorteil's logo. The background colour of the page can be controlled by setting the `-Dhelloworld.colour` argument to any valid HTML colour code.
 
 No changes were needed for the [NGINX Unit platform!](https://unit.nginx.org/)
 
