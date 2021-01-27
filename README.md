@@ -6,7 +6,7 @@ No changes were needed for the [NGINX Unit platform!](https://unit.nginx.org/)
 
 ## Running
 
-The helloworld web appliction requires a `-colour` argument
+The helloworld web appliction requires a `-Dhelloworld.colour` system argument
 
 ```sh
 java helloworld -Dhelloworld.colour=#FFFFFF
